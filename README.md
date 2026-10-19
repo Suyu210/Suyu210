@@ -32,7 +32,7 @@ The project repositories are currently private.
 <td width="50%" valign="top">
 <h4>GLPD · Graph Layout and Phase Dynamics</h4>
 <p>Geometric graph layouts and coupled phase dynamics, with controlled comparisons of stress, overlap, and synchronization.</p>
-<p><img src="assets/html.svg" width="12" height="12" alt=""> HTML / <img src="assets/python.svg" width="12" height="12" alt=""> Python</p>
+<p><img src="assets/python.svg" width="12" height="12" alt=""> Python</p>
 </td>
 </tr>
 <tr>
